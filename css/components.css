@@ -1,0 +1,31 @@
+.zn-btn-primary{
+  background-color: var(--color-secondary);
+  color: var(--white);
+  padding: var(--space-md) var(--space-lg);
+  text-decoration: none;
+  border-radius: .4em;
+  display: inline-block;
+}
+
+.zn-social-logo{
+  width: var(--text-xl);
+}
+
+.zn-testimonials__quote{
+  border-left: solid var(--color-secondary) 5px;
+  padding: 0.5em;
+  margin: 0.5em;
+  width: 15em;
+  font-size: var(--text-xl);
+}
+.zn-testimonials__author{
+  font-size: 1rem;
+}
+
+.zn-features__heading{
+  width: 100%;
+  display: block;
+  text-align: center;
+  margin: 0.5em;
+}
+
