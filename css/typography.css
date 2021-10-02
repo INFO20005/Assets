@@ -99,7 +99,6 @@ li + li{
 p{
   font-weight: 400;
   font-size: var(--text-lg);
-  text-align: center;
   margin: 0.5em;
 }
 
